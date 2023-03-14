@@ -1,0 +1,21 @@
+.titulo {
+    width: auto;
+    height: auto;
+    color: black;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+
+}
+
+p {
+    width: auto;
+    height: auto;
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+    position: absolute;
+    top: 40px;
+}

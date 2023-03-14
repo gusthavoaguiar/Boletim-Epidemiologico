@@ -1,0 +1,85 @@
+.Confirmados {
+    width: 500px;
+    height: 75px;
+    color: white;
+    background-color: red;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*h2*/
+.confirmado {
+    margin-right: 8px;
+    width: 65px;
+    height: 65px;
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.Suspeitos {
+    width: 500px;
+    height: 75px;
+    color: white;
+    background-color: blue;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*h2*/
+.suspeito {
+    margin-right: 8px;
+    width: 65px;
+    height: 65px;
+    color: blue;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.Recuperados {
+    width: 500px;
+    height: 75px;
+    color: white;
+    background-color: green;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*h2*/
+.recuperado {
+    margin-right: 8px;
+    width: 65px;
+    height: 65px;
+    color: green;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.Óbitos {
+    width: 500px;
+    height: 75px;
+    color: white;
+    background-color: black;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*h2*/
+.obito {
+    margin-right: 8px;
+    width: 65px;
+    height: 65px;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
